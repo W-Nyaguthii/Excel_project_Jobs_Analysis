@@ -38,5 +38,3 @@ Goal: Uncover actionable insights about the data job market — top paying roles
 - Statistical summary tables and charts
 - Data storytelling: Clear annotated visuals + insight write-ups
 
-**Primrose** | Data Analytics Enthusiast | Kenya  
-March 2026
